@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sansom\Documents\Soft Body Simulation\Soft Body Simulation\</FILEPATH>
+      <FILENAME>Spring.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Spring::springForce" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Spring::{ctor}</FUNCTION>
+    <DECORATED>??0Spring@@QAE@PAVMassPoint@@0@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Spring::springForce</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sansom\Documents\Soft Body Simulation\Soft Body Simulation\</FILEPATH>
+      <FILENAME>Spring.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Spring::dampingForce" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Spring::{ctor}</FUNCTION>
+    <DECORATED>??0Spring@@QAE@PAVMassPoint@@0@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Spring::dampingForce</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sansom\Documents\Soft Body Simulation\Soft Body Simulation\</FILEPATH>
+      <FILENAME>Spring.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Spring::currentLength" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Spring::{ctor}</FUNCTION>
+    <DECORATED>??0Spring@@QAE@PAVMassPoint@@0@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Spring::currentLength</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

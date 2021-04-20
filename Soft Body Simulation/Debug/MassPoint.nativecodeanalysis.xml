@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sansom\Documents\Soft Body Simulation\Soft Body Simulation\</FILEPATH>
+      <FILENAME>MassPoint.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "MassPoint::locked" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>MassPoint::{ctor}</FUNCTION>
+    <DECORATED>??0MassPoint@@QAE@PAVSoftBody@@V?$Vector2@M@sf@@@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>MassPoint::locked</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sansom\Documents\Soft Body Simulation\Soft Body Simulation\</FILEPATH>
+      <FILENAME>MassPoint.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "MassPoint::doHighlight" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>MassPoint::{ctor}</FUNCTION>
+    <DECORATED>??0MassPoint@@QAE@PAVSoftBody@@V?$Vector2@M@sf@@@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>MassPoint::doHighlight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
